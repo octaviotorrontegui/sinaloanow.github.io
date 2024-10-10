@@ -21,7 +21,7 @@ Sinaloa Now es un blog sencillo de noticias centrado en noticias falsas (fake ne
 
 El proyecto está desplegado usando **GitHub Pages**. Puedes acceder al sitio en el siguiente enlace:
 
-[Ver Sinaloa Now en GitHub Pages](https://tu-usuario.github.io/sinaloa-now/)
+[Ver Sinaloa Now en GitHub Pages](https://octaviotorrontegui.github.io/sinaloanow.github.io/)
 
 ## Instrucciones para clonar el repositorio
 
